@@ -1,0 +1,14 @@
+.btg-drawing{
+    /*
+    width: 50%;
+    height: 50%;
+    */
+    height:100%;
+    padding: 50px;
+    align-content: center;
+    justify-content: center;
+}
+svg{
+    width: 100%;
+    height: 100%;
+}

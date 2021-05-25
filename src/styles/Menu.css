@@ -1,0 +1,18 @@
+.btg-menu{
+    padding: 40px;
+    font-size: 1.3rem;
+}
+
+span{
+    display: block;
+    margin-bottom: 35px;
+    font-size: larger;
+}
+
+span label{
+    margin-right: 5px;
+}
+
+#size{
+    padding-top: 5px;
+}
