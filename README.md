@@ -9,4 +9,4 @@
 
 ## Aperçu de l'interface utilisateur
 
-![Interface utilisateur de l'application web](https://github.com/ggroult3/bubble-tea-generator/public/UI.PNG)
+![Interface utilisateur de l'application web](https://raw.githubusercontent.com/ggroult3/bubble-tea-generator/main/public/UI.PNG)
